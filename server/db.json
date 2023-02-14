@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Ayogh",
+      "company": "Youtuber",
+      "email": "ayogh@ayogh.com",
+      "title": "Software Engineer",
+      "mobile": "1231111234",
+      "photo": "https://www.pngitem.com/pimgs/m/22-220721_circled-user-male-type-user-colorful-icon-png.png",
+      "groupId": "1"
+    },
+    {
+      "name": "Arrey Ojong",
+      "company": "Youtube Technologies",
+      "email": "arreyojong@gmail.com",
+      "title": "Software Engineer",
+      "mobile": "1567890123",
+      "photo": "https://www.seekpng.com/png/detail/72-729869_circled-user-female-skin-type-4-icon-profile.png",
+      "groupId": "4",
+      "id": "hwQ00sP"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
